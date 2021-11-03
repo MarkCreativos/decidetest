@@ -469,7 +469,7 @@ sections:
     background_color: none
 seo:
   title: DecideTest
-  description: The preview of the Event theme
+  description: DecideTest
   extra:
     - name: 'og:type'
       value: website
